@@ -1,0 +1,8 @@
+{{#each styling as |style|}}
+&#10;
+{{style.selector}} {
+{{#each style.styles as |attr|}}
+  {{attr.key}}: {{attr.value}};
+{{/each}}
+}
+{{/each}}
