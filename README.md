@@ -1,4 +1,5 @@
 # Ember-cli-style-tag-component
+**Warning this is very much WIP and much is about to change**
 
 This README outlines the details of collaborating on this Ember addon.
 
